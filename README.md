@@ -1,7 +1,7 @@
 # Rails-Shoppe-Skeleton
-Basic skeleton made using Shoppe gem
+Basic skeleton made using Shoppe gem. Already configured for Heroku.
 
-bundle
-rake db:migrate shoppe:setup
-rake shoppe:seed
-rails s
+bundle<br>
+rake db:migrate shoppe:setup<br>
+rake shoppe:seed<br>
+rails s<br>
